@@ -1,0 +1,130 @@
+/*Add stock display settings*/
+.addStockPopup {
+  position: fixed;
+  top: 20%;
+  left: 10%;
+  border: 1px solid black;
+  border-radius: 20px;
+  z-index: 10;
+  background-color: white;
+  width: 80%;
+  max-width: 90%;
+  height: 70%;
+  max-height: 90%;
+}
+.addStockPopupHeader {
+  padding: 10px 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid black;
+}
+
+.addStockPopupHeader .title {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.addStockPopupHeader .close-button {
+  cursor: pointer;
+  border: none;
+  outline: none;
+  background: none;
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.addstockPopupBody {
+  padding: 10px 15px;
+}
+
+/*Graph display settings*/
+
+.addGraphPopup {
+  position: fixed;
+  top: 20%;
+  left: 10%;
+  border: 1px solid black;
+  border-radius: 20px;
+  z-index: 10;
+  background-color: white;
+  width: 80%;
+  max-width: 90%;
+  height: 70%;
+  max-height: 90%;
+}
+.addGraphPopupHeader {
+  padding: 10px 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid black;
+}
+
+.addGraphPopupHeader .title {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.addGraphPopupHeader .close-button {
+  cursor: pointer;
+  border: none;
+  outline: none;
+  background: none;
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.addGraphPopupBody {
+  padding: 10px 15px;
+  height: 100%;
+}
+
+.stockList {
+  width: 20%;
+  height: 80%;
+  float: left;
+  border: 1px solid black;
+}
+
+.graph {
+  border: 1px solid black;
+  overflow: hidden;
+  height: 80%;
+}
+
+#overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  pointer-events: none;
+}
+
+.OnePortfolio {
+  border: 2px solid black;
+  border-radius: 20px;
+  margin-top: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  height: 500px;
+  width: 95%;
+}
+
+/*Buttons settings*/
+.AddStock {
+  margin-left: 5px;
+}
+
+.PerfGraph {
+  margin-left: 5px;
+}
+
+.ChangeCurrency {
+  margin-left: 5px;
+}
+
+.DeletePortfolio {
+  margin-left: 5px;
+}
