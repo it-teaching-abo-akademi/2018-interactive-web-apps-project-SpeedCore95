@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/2018-interactive-web-apps-project-SpeedCore95/SPMS/precache-manifest.6ad6f9bd76545a24e0cb498c67c1bb06.js"
+  "/2018-interactive-web-apps-project-SpeedCore95/precache-manifest.f34065463940b71b3b7a3c95041bb9f6.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/2018-interactive-web-apps-project-SpeedCore95/SPMS/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/2018-interactive-web-apps-project-SpeedCore95/index.html"), {
   
   blacklist: [/^\/_/,/\/[^\/?]+\.[^\/]+$/],
 });
