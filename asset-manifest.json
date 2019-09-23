@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/2018-interactive-web-apps-project-SpeedCore95/SPMS/static/css/main.5d49518c.chunk.css",
-    "main.js": "/2018-interactive-web-apps-project-SpeedCore95/SPMS/static/js/main.fb7d6072.chunk.js",
-    "main.js.map": "/2018-interactive-web-apps-project-SpeedCore95/SPMS/static/js/main.fb7d6072.chunk.js.map",
-    "runtime~main.js": "/2018-interactive-web-apps-project-SpeedCore95/SPMS/static/js/runtime~main.ec644c91.js",
-    "runtime~main.js.map": "/2018-interactive-web-apps-project-SpeedCore95/SPMS/static/js/runtime~main.ec644c91.js.map",
-    "static/css/2.11f871ab.chunk.css": "/2018-interactive-web-apps-project-SpeedCore95/SPMS/static/css/2.11f871ab.chunk.css",
-    "static/js/2.1958d122.chunk.js": "/2018-interactive-web-apps-project-SpeedCore95/SPMS/static/js/2.1958d122.chunk.js",
-    "static/js/2.1958d122.chunk.js.map": "/2018-interactive-web-apps-project-SpeedCore95/SPMS/static/js/2.1958d122.chunk.js.map",
-    "index.html": "/2018-interactive-web-apps-project-SpeedCore95/SPMS/index.html",
-    "precache-manifest.00619eaa58e3ce61969e4422174a3e53.js": "/2018-interactive-web-apps-project-SpeedCore95/SPMS/precache-manifest.00619eaa58e3ce61969e4422174a3e53.js",
-    "service-worker.js": "/2018-interactive-web-apps-project-SpeedCore95/SPMS/service-worker.js",
-    "static/css/2.11f871ab.chunk.css.map": "/2018-interactive-web-apps-project-SpeedCore95/SPMS/static/css/2.11f871ab.chunk.css.map",
-    "static/css/main.5d49518c.chunk.css.map": "/2018-interactive-web-apps-project-SpeedCore95/SPMS/static/css/main.5d49518c.chunk.css.map",
-    "static/media/logo.svg": "/2018-interactive-web-apps-project-SpeedCore95/SPMS/static/media/logo.5d5d9eef.svg"
+    "main.css": "/2018-interactive-web-apps-project-SpeedCore95/static/css/main.5d49518c.chunk.css",
+    "main.js": "/2018-interactive-web-apps-project-SpeedCore95/static/js/main.769c6b03.chunk.js",
+    "main.js.map": "/2018-interactive-web-apps-project-SpeedCore95/static/js/main.769c6b03.chunk.js.map",
+    "runtime~main.js": "/2018-interactive-web-apps-project-SpeedCore95/static/js/runtime~main.349701d6.js",
+    "runtime~main.js.map": "/2018-interactive-web-apps-project-SpeedCore95/static/js/runtime~main.349701d6.js.map",
+    "static/css/2.11f871ab.chunk.css": "/2018-interactive-web-apps-project-SpeedCore95/static/css/2.11f871ab.chunk.css",
+    "static/js/2.1958d122.chunk.js": "/2018-interactive-web-apps-project-SpeedCore95/static/js/2.1958d122.chunk.js",
+    "static/js/2.1958d122.chunk.js.map": "/2018-interactive-web-apps-project-SpeedCore95/static/js/2.1958d122.chunk.js.map",
+    "index.html": "/2018-interactive-web-apps-project-SpeedCore95/index.html",
+    "precache-manifest.39ea30534a8922a2030e95d52cb8e746.js": "/2018-interactive-web-apps-project-SpeedCore95/precache-manifest.39ea30534a8922a2030e95d52cb8e746.js",
+    "service-worker.js": "/2018-interactive-web-apps-project-SpeedCore95/service-worker.js",
+    "static/css/2.11f871ab.chunk.css.map": "/2018-interactive-web-apps-project-SpeedCore95/static/css/2.11f871ab.chunk.css.map",
+    "static/css/main.5d49518c.chunk.css.map": "/2018-interactive-web-apps-project-SpeedCore95/static/css/main.5d49518c.chunk.css.map",
+    "static/media/logo.svg": "/2018-interactive-web-apps-project-SpeedCore95/static/media/logo.5d5d9eef.svg"
   }
 }
