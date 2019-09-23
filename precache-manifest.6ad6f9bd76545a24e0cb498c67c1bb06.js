@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "254713f8b45b3f277d65de4f82820d04",
+    "revision": "e7723bb0bee0e53641b3c566d01d40f3",
     "url": "/2018-interactive-web-apps-project-SpeedCore95/SPMS/index.html"
   },
   {
-    "revision": "6d55a3bf8a45db677f9a",
+    "revision": "240a9b950e8afbeddd8f",
     "url": "/2018-interactive-web-apps-project-SpeedCore95/SPMS/static/css/2.11f871ab.chunk.css"
   },
   {
-    "revision": "7729f5dd5d49dbb1de01",
+    "revision": "43f7fcc807d4d0723931",
     "url": "/2018-interactive-web-apps-project-SpeedCore95/SPMS/static/css/main.5d49518c.chunk.css"
   },
   {
-    "revision": "6d55a3bf8a45db677f9a",
-    "url": "/2018-interactive-web-apps-project-SpeedCore95/SPMS/static/js/2.1958d122.chunk.js"
+    "revision": "240a9b950e8afbeddd8f",
+    "url": "/2018-interactive-web-apps-project-SpeedCore95/SPMS/static/js/2.f87a3909.chunk.js"
   },
   {
-    "revision": "7729f5dd5d49dbb1de01",
-    "url": "/2018-interactive-web-apps-project-SpeedCore95/SPMS/static/js/main.b5f0bbc5.chunk.js"
+    "revision": "43f7fcc807d4d0723931",
+    "url": "/2018-interactive-web-apps-project-SpeedCore95/SPMS/static/js/main.142be113.chunk.js"
   },
   {
-    "revision": "62b0251daa9f09443ba9",
-    "url": "/2018-interactive-web-apps-project-SpeedCore95/SPMS/static/js/runtime~main.ec644c91.js"
+    "revision": "13a0184b07f12e3d44cb",
+    "url": "/2018-interactive-web-apps-project-SpeedCore95/SPMS/static/js/runtime~main.067ec78b.js"
   },
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",

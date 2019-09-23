@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/2018-interactive-web-apps-project-SpeedCore95/SPMS/precache-manifest.466d246f231f74b9c0ea4ec724e022dd.js"
+  "/2018-interactive-web-apps-project-SpeedCore95/SPMS/precache-manifest.6ad6f9bd76545a24e0cb498c67c1bb06.js"
 );
 
 self.addEventListener('message', (event) => {
